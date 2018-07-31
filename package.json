@@ -8,7 +8,7 @@
     }
   },
   "main": "./lib/sha3",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An atom package that calculates the sha3 of an edited file in realtime",
   "keywords": [],
   "repository": "https://github.com/iamdoron/atom-sha3",
