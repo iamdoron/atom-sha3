@@ -1,0 +1,22 @@
+{
+  "name": "sha3",
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "main": "./lib/sha3",
+  "version": "0.0.0",
+  "description": "An atom package that calculates the sha3 of an edited file in realtime",
+  "keywords": [],
+  "repository": "https://github.com/iamdoron/atom-sha3",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "js-sha3": "^0.7.0"
+  }
+}
