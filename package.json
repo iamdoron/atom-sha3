@@ -11,7 +11,7 @@
   "version": "0.1.1",
   "description": "An atom package that calculates the sha3 of an edited file in realtime",
   "keywords": [],
-  "repository": "https://github.com/iamdoron/atom-sha3",
+  "repository": "git@github.com:iamdoron/atom-sha3.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
